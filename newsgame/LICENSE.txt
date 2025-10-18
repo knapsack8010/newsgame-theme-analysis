@@ -1,0 +1,6 @@
+This theme is licensed under the GNU General Public License v2 or later.
+
+You may copy, modify, and redistribute it under the terms of the GPL.
+
+Original theme by MoreNews: https://wordpress.org/themes/newsgame/
+This copy is used for learning and analysis purposes.
